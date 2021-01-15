@@ -1,0 +1,17 @@
+{
+  "name": "pp-ailumette",
+  "version": "1.0.0",
+  "description": "ailumette game",
+  "main": "main.js",
+  "repository": "https://github.com/SaltyHunter/pp-ailumette.git",
+  "author": "SaltyHunter <kevin.moreau@efrei.net>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "yarn": "^1.22.10"
+  },
+  "scripts": {
+    "start": "node src/main"
+  }
+}
